@@ -1,0 +1,3 @@
+profile
+name : Otsuka Masashi
+age  : 20
