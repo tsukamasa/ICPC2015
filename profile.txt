@@ -1,8 +1,0 @@
-profile
-name : Otsuka Masashi
-age  : 20
-
-taijuu:55kg
-
-
-comment : himajinnshu
